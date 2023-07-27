@@ -1,0 +1,7 @@
+[EXEMPLO DE PROMPT FINAL (EXCLUA ESSA LINHA 1 E MODIFIQUE COMO DESEJAR A LINHA 2)]
+Dado o seguinte cenário, escreva faça o resumo perfeito.
+
+CENÁRIO:
+<<SCENARIO>>
+
+RESUMO:
